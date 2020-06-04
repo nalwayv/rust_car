@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.3" orientation="orthogonal" renderorder="right-down" width="10" height="7" tilewidth="128" tileheight="128" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" source="spritesheet_tiles.tsx"/>
+ <layer id="1" name="base" width="10" height="7" locked="1">
+  <data encoding="csv">
+103,282,282,282,282,282,282,282,282,85,
+31,71,71,71,71,71,71,71,71,67,
+31,71,71,71,71,71,71,71,71,67,
+31,71,71,71,71,71,71,71,71,67,
+31,71,71,71,71,71,71,71,71,67,
+31,71,71,71,71,71,71,71,71,67,
+13,210,210,210,210,210,210,210,210,318
+</data>
+ </layer>
+ <layer id="2" name="track" width="10" height="7" visible="0" locked="1">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,
+0,150,186,186,186,186,186,186,132,0,
+0,203,95,184,184,184,184,77,167,0,
+0,308,272,0,0,0,0,203,167,0,
+0,203,94,186,186,186,186,76,167,0,
+0,149,184,184,184,184,184,184,131,0,
+0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>
